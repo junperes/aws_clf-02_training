@@ -1,8 +1,7 @@
 # AWS_CLF-02_Training
 DIO bootcamp
 
-| Notas |
-## 0.1 - Versionamento de Código com Git e GitHub
+## Versionamento de Código com Git e GitHub
 ```
 git init
 git clone HTTPS
