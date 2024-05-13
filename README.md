@@ -28,3 +28,15 @@ DIO bootcamp
 - Alta disponibilidade: redundância, balanceamento de carga, backup e recuperação;
 - Elasticidade: manual ou automática;
 - Agilidade:  interface web, linha de comando ou API;
+
+### AWS Well-Architected Framework
+- Excelência operacional;
+- Segurança: confidencialidade, integridade e disponibilidade de dados, gerenciamento de identidades e acessos, e detecção e resposta a eventos de segurança;
+- Confiabilidade;
+- Eficiência de performance: seleção, provisionamento, monitoramento e ajuste de recursos;
+- Otimização de custos: melhor retorno sobre o investimento em recursos de TI e computação, incluindo análise, medição, previsão e controle de custos;
+- Sustentabilidade: consumo de energia, emissão de carbono, uso de materiais e descarte de resíduos;
+
+Escalabilidade vs Elasticidade
+Segurança vs Confiabilidade
+Otimização de Custos vs Sustentabilidade
