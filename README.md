@@ -23,3 +23,8 @@ DIO bootcamp
 - `git diff`: Exibe as diferenças entre alterações no diretório de trabalho e o índice.
 - `git fetch`: Obtém os commits e atualizações de um repositório remoto.
 - `git stash`: Armazena temporariamente alterações locais de forma não comitada.
+
+### Benefícios
+- Alta disponibilidade: redundância, balanceamento de carga, backup e recuperação;
+- Elasticidade: manual ou automática;
+- Agilidade:  interface web, linha de comando ou API;
