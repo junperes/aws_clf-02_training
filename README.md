@@ -43,13 +43,13 @@ Otimização de Custos vs Sustentabilidade.
 
 ### AWS CAF (Cloud Adoption Framework)
 7rs:
-- Retire,
-- Retain,
-- Rehost,
-- Relocate,
-- Repurchase,
-- Replatform,
-- Refactor.
+- Retire: transicao de aplicativo sem valor comercial,
+- Retain: aplicativo com necessidade de adiar sua migracao para a nuvem,
+- Rehost: mover aplicativos para a nuvem sem modifica-los, ou lift and shift,
+- Relocate: transferir servidores ou instancias para outra plataforma na nuvem,
+- Repurchase: substituir o aplicativo por uma versao ou produto diferente,
+- Replatform: mover para a nuvem e introduzir otimizações, reduzir custos ou aproveitar recursos da nuvem,
+- Refactor: modificar a arquitetura do aplicativo ou aproveitar os recursos nativos para melhorar agilidade.
 
 
 
