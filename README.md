@@ -37,6 +37,20 @@ DIO bootcamp
 - Otimização de custos: melhor retorno sobre o investimento em recursos de TI e computação, incluindo análise, medição, previsão e controle de custos;
 - Sustentabilidade: consumo de energia, emissão de carbono, uso de materiais e descarte de resíduos;
 
-Escalabilidade vs Elasticidade
-Segurança vs Confiabilidade
-Otimização de Custos vs Sustentabilidade
+Escalabilidade vs Elasticidade;
+Segurança vs Confiabilidade;
+Otimização de Custos vs Sustentabilidade.
+
+### AWS CAF (Cloud Adoption Framework)
+7rs:
+- Retire,
+- Retain,
+- Rehost,
+- Relocate,
+- Repurchase,
+- Replatform,
+- Refactor.
+
+
+
+
