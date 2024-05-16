@@ -51,6 +51,8 @@ Otimização de Custos vs Sustentabilidade.
 - Replatform: mover para a nuvem e introduzir otimizações, reduzir custos ou aproveitar recursos da nuvem,
 - Refactor: modificar a arquitetura do aplicativo ou aproveitar os recursos nativos para melhorar agilidade.
 
-
-
+### Responsabilidade
+- Infraestrutura como Serviço (IaaS): cliente
+- Plataforma como Serviço (PaaS): intermediário
+- Software como Serviço (SaaS): AWS
 
